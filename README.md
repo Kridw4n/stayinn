@@ -22,6 +22,20 @@ StayInn is a full-stack hotel-booking prototype built for SUTD's Elements of Sof
 
 ![StayInn booking status filter](docs/screenshots/stayinn-booking-filter.jpg)
 
+### Live Singapore hotel results
+
+![Live Singapore hotel results](docs/screenshots/stayinn-live-hotel-results.jpg)
+
+### Live room inventory
+
+The room details view presents every available room type with its photos, bed configuration, amenities, cancellation terms, remaining inventory, nightly price, market-rate comparison, and reservation controls. Availability and prices shown here were returned by the live hotel API for the selected dates and may change.
+
+![Hotel 81 Orchid available room types](docs/screenshots/stayinn-hotel81-orchid-room-types.jpg)
+
+### Hotel gallery
+
+![Hotel 81 Orchid gallery](docs/screenshots/stayinn-hotel-gallery.jpg)
+
 ## What the project demonstrates
 
 - A modular React interface organised into pages, reusable feature components, and shared UI primitives.
